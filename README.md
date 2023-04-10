@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdurango-dato&label=Profile%20views&color=0e75b6&style=flat" alt="rdurango-dato" /> </p>
 
-- 🔭 Actualmente Estamos Trabajando en **4 Iniciativas**
+- 🔭 Actualmente Estamos Trabajando en **4 Iniciativas** y **3 Proyectos Cortos**
 
 - 🌱 Estamos Aprendiendo **Deep Learning y MLOps**
 
